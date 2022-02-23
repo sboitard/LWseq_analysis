@@ -1,0 +1,398 @@
+Ordre;Region;Famille;Type;Caractère;PubMed;Femelle;M.F;No;BothM
+9;SSC1:110;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Meat color b*;22688438;0;5;0;0
+10;SSC1:110;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Meat color L*;22688438;0;5;0;0
+11;SSC1:110;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Meat color score;22688438;0;5;0;0
+33;SSC1:253;Production_Association;traitType=Growth;trait=Average daily gain;26418247;0;5;0;0
+52;SSC10:23;Production_Association;traitType=Growth;trait=Average daily gain;30869175;0;5;0;0
+61;SSC10:62;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Meat color a*;28054563;0;5;0;0
+80;SSC11:7;Production_Association;traitType=feedconversion;trait=feed conversion ratio;30237295;0;5;0;0
+96;SSC13:191;Production_Association;traitType=Growth;trait=Average daily gain;31024621;0;5;0;0
+115;SSC16:69;Production_Association;traitType=feedconversion;trait=feed conversion ratio;28604785;0;5;0;0
+117;SSC16:69;Production_Association;traitType=Growth;trait=Average daily gain;24663154;0;5;0;0
+128;SSC17:1;Production_Association;traitType=Growth;trait=Average daily gain;24663154;0;5;0;0
+141;SSC17:43;Production_Association;traitType=feedconversion;trait=feed conversion ratio;28604785;0;5;0;0
+143;SSC17:43;Production_Association;traitType=Growth;trait=Average daily gain;27809465;0;5;0;0
+153;SSC17:60;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Meat color score;18717966;0;5;0;0
+154;SSC17:60;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Meat color-L;18717966;0;5;0;0
+155;SSC17:60;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Reflectance value;18717966;0;5;0;0
+158;SSC17:60;Production_Association;traitType=feedconversion;trait=feed conversion ratio;29971093;0;5;0;0
+170;SSC18:10;Production_Association;traitType=Growth;trait=Average daily gain;30869175;0;5;0;0
+171;SSC18:10;Production_Association;traitType=Growth;trait=Body weight;30869175;0;5;0;0
+188;SSC2:1;Production_Association;traitType=Growth;trait=Average daily gain;30308042;0;5;0;0
+206;SSC2:145;Production_Association;traitType=feedconversion;trait=feed conversion ratio;28604785;0;5;0;0
+207;SSC2:145;Production_Association;traitType=Growth;trait=Average daily gain;25885760;0;5;0;0
+224;SSC2:151;Production_Association;traitType=Growth;trait=Body weight;28890999;0;5;0;0
+238;SSC2:45;Production_Association;traitType=Growth;trait=Body weight (150 days);29522525;0;5;0;0
+247;SSC3:3;Production_Association;traitType=Growth;trait=Average daily gain;31024621;0;5;0;0
+264;SSC4:18;Production_Association;traitType=feedconversion;trait=feed conversion ratio;28604785;0;5;0;0
+277;SSC5:94;Production_Association;traitType=Growth;trait=Average daily gain;24663154;0;5;0;0
+287;SSC6:13;Meat_and_Carcass_Association;traitType=pH;trait=pH 24 hr post mortem (ham);24643240;0;5;0;0
+288;SSC6:13;Production_Association;traitType=Growth;trait=Average daily gain;21107721;0;5;0;0
+306;SSC6:72;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Meat color b*;101;0;5;0;0
+309;SSC6:72;Production_Association;traitType=Growth;trait=Average daily gain;30869175;0;5;0;0
+333;SSC7:18;Production_Association;traitType=Growth;trait=Average daily gain;31024621;0;5;0;0
+334;SSC7:18;Production_Association;traitType=Growth;trait=Body weight;30869175;0;5;0;0
+346;SSC7:85;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Meat color b*;25962760;0;5;0;0
+368;SSC8:80;Meat_and_Carcass_Association;traitType=Meatcolor;trait=Meat color a*;24643240;0;5;0;0
+369;SSC8:80;Production_Association;traitType=feedconversion;trait=feed conversion ratio;23296815;0;5;0;0
+378;SSC9:101;Production_Association;traitType=Growth;trait=Average daily gain;29059722;0;5;0;0
+393;SSC9:19;Production_Association;traitType=feedconversion;trait=feed conversion ratio;30237295;0;5;0;0
+316;SSC7:18;Exterior_Association;traitType=conformation;trait=Conformation score;28118822;0;1;0;0
+29;SSC1:253;Exterior_Association;traitType=conformation;trait=Hind leg conformation;21383979;0;1;0;0
+74;SSC11:7;Exterior_Association;traitType=conformation;trait=Hind leg conformation;19284518;0;1;0;0
+102;SSC16:69;Exterior_Association;traitType=conformation;trait=Hind leg conformation;21383979;0;1;0;0
+122;SSC17:1;Exterior_Association;traitType=conformation;trait=Hind feet conformation;21383979;0;1;0;0
+133;SSC17:43;Exterior_Association;traitType=conformation;trait=Hind feet conformation;21383979;0;1;0;0
+134;SSC17:43;Exterior_Association;traitType=conformation;trait=Hind leg conformation;21383979;0;1;0;0
+146;SSC17:60;Exterior_Association;traitType=conformation;trait=Hind leg conformation;19284518;0;1;0;0
+191;SSC2:145;Exterior_Association;traitType=conformation;trait=Front leg conformation;19284518;0;1;0;0
+227;SSC2:45;Exterior_Association;traitType=conformation;trait=Front leg conformation;19284518;0;1;0;0
+228;SSC2:45;Exterior_Association;traitType=conformation;trait=Hind leg conformation;19284518;0;1;0;0
+239;SSC3:124;Exterior_Association;traitType=conformation;trait=Hind leg conformation;21383979;0;1;0;0
+252;SSC4:18;Exterior_Association;traitType=conformation;trait=Front feet conformation;19284518;0;1;0;0
+255;SSC4:18;Exterior_Association;traitType=conformation;trait=Hind leg conformation;21383979;0;1;0;0
+280;SSC6:13;Exterior_Association;traitType=conformation;trait=Front leg conformation;21383979;0;1;0;0
+336;SSC7:85;Exterior_Association;traitType=conformation;trait=Front leg conformation;21383979;0;1;0;0
+351;SSC8:124;Exterior_Association;traitType=conformation;trait=Hind feet conformation;19284518;0;1;0;0
+358;SSC8:80;Exterior_Association;traitType=conformation;trait=Front leg conformation;21383979;0;1;0;0
+373;SSC9:101;Exterior_Association;traitType=conformation;trait=Front leg conformation;21383979;0;1;0;0
+173;SSC2:1;Exterior_Association;traitType=conformation;trait=Gait score (overall);21383979;0;1;0;0
+192;SSC2:145;Exterior_Association;traitType=conformation;trait=Gait score (overall);19284518;0;1;0;0
+253;SSC4:18;Exterior_Association;traitType=conformation;trait=Gait score (overall);19284518;0;1;0;0
+289;SSC6:72;Exterior_Association;traitType=conformation;trait=Gait score (overall);19519793;0;1;0;0
+381;SSC9:107;Exterior_Association;traitType=conformation;trait=Gait score (overall);21383979;0;1;0;0
+5;SSC1:110;Meat_and_Carcass_Association;traitType=Anatomy;trait=Lean meat percentage;28831160;0;0;0;5
+21;SSC1:230;Meat_and_Carcass_Association;traitType=Anatomy;trait=Dressing percentage;29978910;0;0;0;5
+31;SSC1:253;Meat_and_Carcass_Association;traitType=Anatomy;trait=Dressing percentage;29978910;0;0;0;5
+35;SSC1:253;Production_Association;traitType=Growth;trait=Days to 100 kg;31024621;0;0;0;5
+43;SSC1:95;Meat_and_Carcass_Association;traitType=fatness;trait=Average backfat thickness;32344859;0;0;0;5
+50;SSC10:23;Meat_and_Carcass_Association;traitType=fatness;trait=backfat at mid-back;27094516;0;0;0;5
+56;SSC10:62;Meat_and_Carcass_Association;traitType=Anatomy;trait=Dressing percentage;29978910;0;0;0;5
+58;SSC10:62;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at rump;23153328;0;0;0;5
+87;SSC13:113;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at rump;23153328;0;0;0;5
+107;SSC16:69;Meat_and_Carcass_Association;traitType=Anatomy;trait=Lean meat percentage;28831160;0;0;0;5
+138;SSC17:43;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at last rib;21383979;0;0;0;5
+144;SSC17:43;Production_Association;traitType=Growth;trait=Days to 100 kg;27809465;0;0;0;5
+149;SSC17:60;Meat_and_Carcass_Association;traitType=Anatomy;trait=Estimated carcass lean content;24707962;0;0;0;5
+166;SSC18:10;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at rump;23153328;0;0;0;5
+176;SSC2:1;Meat_and_Carcass_Association;traitType=Anatomy;trait=Dressing percentage;29978910;0;0;0;5
+178;SSC2:1;Meat_and_Carcass_Association;traitType=Anatomy;trait=Lean meat percentage;24961654;0;0;0;5
+183;SSC2:1;Meat_and_Carcass_Association;traitType=fatness;trait=Average backfat thickness;30974885;0;0;0;5
+184;SSC2:1;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at first rib;25885760;0;0;0;5
+185;SSC2:1;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at last rib;21383979;0;0;0;5
+186;SSC2:1;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at rump;25885760;0;0;0;5
+202;SSC2:145;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at rump;23153328;0;0;0;5
+220;SSC2:151;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at last rib;27135998;0;0;0;5
+261;SSC4:18;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at rump;23153328;0;0;0;5
+283;SSC6:13;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at last rib;21383979;0;0;0;5
+302;SSC6:72;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at rump;23153328;0;0;0;5
+325;SSC7:18;Meat_and_Carcass_Association;traitType=Anatomy;trait=Lean meat percentage;30974885;0;0;0;5
+388;SSC9:19;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at rump;23153328;0;0;0;5
+394;SSC9:19;Production_Association;traitType=Growth;trait=Days to 100 kg;29528397;0;0;0;5
+64;SSC10:62;Production_Association;traitType=Growth;trait=Days to 110 kg;28604785;0;0;0;5
+82;SSC11:7;Production_Association;traitType=Growth;trait=Days to 110 kg;28604785;0;0;0;5
+97;SSC13:191;Production_Association;traitType=Growth;trait=Days to 110 kg;28604785;0;0;0;5
+118;SSC16:69;Production_Association;traitType=Growth;trait=Days to 110 kg;28604785;0;0;0;5
+248;SSC3:3;Production_Association;;trait=Days to 110 kg;28604785;0;0;0;5
+278;SSC5:94;Production_Association;traitType=Growth;trait=Days to 110 kg;28604785;0;0;0;5
+59;SSC10:62;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat between 3rd and 4th last ribs;24225222;0;0;0;5
+85;SSC13:109;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat between 3rd and 4th last ribs;24225222;0;0;0;5
+88;SSC13:113;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat between 3rd and 4th last ribs;24225222;0;0;0;5
+94;SSC13:191;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat between 3rd and 4th last ribs;24225222;0;0;0;5
+110;SSC16:69;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat between 3rd and 4th last ribs;28831160;0;0;0;5
+151;SSC17:60;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at tenth rib;29528397;0;0;0;5
+221;SSC2:151;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at tenth rib;27135998;0;0;0;5
+276;SSC5:94;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat between 3rd and 4th last ribs;24225222;0;0;0;5
+284;SSC6:13;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at tenth rib;21383979;0;0;0;5
+303;SSC6:72;Meat_and_Carcass_Association;traitType=fatness;trait=Backfat at tenth rib;21383979;0;0;0;5
+177;SSC2:1;Meat_and_Carcass_Association;traitType=Anatomy;trait=Ham meat percentage;24961654;0;0;0;3
+180;SSC2:1;Meat_and_Carcass_Association;traitType=Anatomy;trait=Loin weight;29522525;0;0;0;3
+200;SSC2:145;Meat_and_Carcass_Association;traitType=Anatomy;trait=Ham weight;29522525;0;0;0;3
+259;SSC4:18;Meat_and_Carcass_Association;traitType=Anatomy;trait=Shoulder weight;29522525;0;0;0;3
+295;SSC6:72;Meat_and_Carcass_Association;traitType=Anatomy;trait=Belly weight;21107721;0;0;0;3
+299;SSC6:72;Meat_and_Carcass_Association;traitType=Anatomy;trait=Shoulder weight;29522525;0;0;0;3
+18;SSC1:16;Reproduction_Association;traitType=Reproductiveorgans;trait=Right teat number;31475745;5;0;0;0
+27;SSC1:238;Reproduction_Association;traitType=Littertraits;trait=Total number born alive;28943389;5;0;0;0
+39;SSC1:253;Reproduction_Association;traitType=Reproductiveorgans;trait=Teat number;32380955;5;0;0;0
+47;SSC1:95;Reproduction_Association;traitType=Littertraits;trait=Litter size;29411893;5;0;0;0
+53;SSC10:23;Reproduction_Association;traitType=Littertraits;trait=Total number born alive;25781935;5;0;0;0
+71;SSC11:51;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+83;SSC11:7;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+84;SSC11:7;Reproduction_Association;traitType=Reproductiveorgans;trait=Teat number;32380955;5;0;0;0
+98;SSC13:191;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+101;SSC13:99;Reproduction_Association;traitType=Reproductiveorgans;trait=Teat number;26202474;5;0;0;0
+121;SSC16:69;Reproduction_Association;traitType=Reproductiveorgans;trait=Teat number;32380955;5;0;0;0
+129;SSC17:1;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+145;SSC17:43;Reproduction_Association;traitType=Reproductiveorgans;trait=Teat number;32380955;5;0;0;0
+160;SSC17:60;Reproduction_Association;traitType=Littertraits;trait=Litter weight, piglets born alive;22393372;5;0;0;0
+189;SSC2:1;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+210;SSC2:145;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+211;SSC2:145;Reproduction_Association;traitType=Reproductiveorgans;trait=Functional teat number;28050760;5;0;0;0
+212;SSC2:145;Reproduction_Association;traitType=Reproductiveorgans;trait=Nonfunctional nipples;28050760;5;0;0;0
+225;SSC2:151;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+244;SSC3:124;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+249;SSC3:3;Reproduction_Association;traitType=Littertraits;trait=Litter size;29411893;5;0;0;0
+250;SSC3:3;Reproduction_Association;traitType=Reproductiveorgans;trait=Teat number;32380955;5;0;0;0
+266;SSC4:18;Reproduction_Association;traitType=Littertraits;trait=Litter size;29411893;5;0;0;0
+311;SSC6:72;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+312;SSC6:72;Reproduction_Association;traitType=Littertraits;trait=Number weaned;29879826;5;0;0;0
+313;SSC6:72;Reproduction_Association;traitType=Littertraits;trait=Total number born alive;29879826;5;0;0;0
+348;SSC7:85;Reproduction_Association;traitType=Reproductiveorgans;trait=Teat number;25104247;5;0;0;0
+356;SSC8:124;Reproduction_Association;traitType=Littertraits;trait=Litter size;31796051;5;0;0;0
+371;SSC8:80;Reproduction_Association;traitType=Littertraits;trait=Litter size;28943389;5;0;0;0
+379;SSC9:101;Reproduction_Association;traitType=Littertraits;trait=Litter size;22132733;5;0;0;0
+395;SSC9:19;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+397;SSC9:96;Reproduction_Association;traitType=Littertraits;trait=Litter size;27615062;5;0;0;0
+116;SSC16:69;Production_Association;traitType=feedintake;trait=Average feeding rate;23977060;5;0;0;0
+331;SSC7:18;Production_Association;traitType=feedintake;trait=Daily feed intake;29971093;5;0;0;0
+385;SSC9:107;Production_Association;traitType=feedintake;trait=Daily feed intake;23977060;5;0;0;0
+23;SSC1:238;Exterior_Association;traitType=Behavioral;trait=Maternal infanticide;22976950;1;0;0;0
+190;SSC2:145;Exterior_Association;traitType=Behavioral;trait=Maternal infanticide;22976950;1;0;0;0
+216;SSC2:151;Exterior_Association;traitType=Behavioral;trait=Maternal infanticide;22976950;1;0;0;0
+350;SSC8:124;Exterior_Association;traitType=Behavioral;trait=Maternal infanticide;22976950;1;0;0;0
+119;SSC16:69;Reproduction_Association;traitType=Littertraits;trait=Lifetime total number of offspring;30974885;1;0;0;0
+380;SSC9:101;Reproduction_Association;traitType=Littertraits;trait=Piglet mortality;22132733;1;0;0;0
+25;SSC1:238;Health_Association;traitType=Diseasesusceptibility;trait=Periweaning failure to thrive syndrome;29695451;1;0;0;0
+236;SSC2:45;Health_Association;traitType=Diseasesusceptibility;trait=Periweaning failure to thrive syndrome;29695451;1;0;0;0
+1;SSC1:110;Health_Association;traitType=bloodparameters;trait=Mean corpuscular hemoglobin content;27434032;0;0;1;0
+2;SSC1:110;Health_Association;traitType=bloodparameters;trait=Mean corpuscular volume;27434032;0;0;1;0
+3;SSC1:110;Health_Association;traitType=bloodparameters;trait=Phosphate level;31316547;0;0;1;0
+4;SSC1:110;Health_Association;traitType=Immunecapacity;trait=Lymphocyte number;27434032;0;0;1;0
+6;SSC1:110;Meat_and_Carcass_Association;traitType=ConductivityImpedance;trait=Conductivity 45 minutes post-mortem;29978910;0;0;1;0
+8;SSC1:110;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Arachidonic acid to gamma-linolenic acid ratio;27097669;0;0;1;0
+14;SSC1:16;Exterior_Association;traitType=defects;trait=Spinal curvature;21176156;0;0;1;0
+15;SSC1:16;Meat_and_Carcass_Association;traitType=Anatomy;trait=Lung weight;101;0;0;1;0
+17;SSC1:16;Meat_and_Carcass_Association;traitType=fatness;trait=Obesity index;25071839;0;0;1;0
+20;SSC1:230;Health_Association;traitType=bloodparameters;trait=LDL cholesterol;31065004;0;0;1;0
+22;SSC1:230;Meat_and_Carcass_Association;traitType=fatness;trait=Obesity index;25071839;0;0;1;0
+24;SSC1:238;Health_Association;traitType=bloodparameters;trait=LDL cholesterol;25189197;0;0;1;0
+26;SSC1:238;Production_Association;traitType=feedintake;trait=Time in feeder per visit;28813538;0;0;1;0
+28;SSC1:253;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+30;SSC1:253;Health_Association;traitType=Immunecapacity;trait=Lymphocyte percentage;28046140;0;0;1;0
+34;SSC1:253;Production_Association;traitType=Growth;trait=body length;21383979;0;0;1;0
+36;SSC1:253;Production_Association;traitType=Growth;trait=Femur length;26219668;0;0;1;0
+37;SSC1:253;Production_Association;traitType=Growth;trait=Humerus length;26219668;0;0;1;0
+38;SSC1:253;Production_Association;traitType=Growth;trait=Scapula length;26219668;0;0;1;0
+41;SSC1:95;Health_Association;traitType=bloodparameters;trait=HDL/LDL ratio;24299188;0;0;1;0
+44;SSC1:95;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Polyunsaturated fatty acid content;30584983;0;0;1;0
+45;SSC1:95;Meat_and_Carcass_Association;traitType=flavor;trait=Oiliness;30153624;0;0;1;0
+46;SSC1:95;Production_Association;traitType=Growth;trait=body length;21383979;0;0;1;0
+48;SSC10:23;Health_Association;traitType=bloodparameters;trait=Cholesterol level;25189197;0;0;1;0
+49;SSC10:23;Health_Association;traitType=bloodparameters;trait=LDL cholesterol;25189197;0;0;1;0
+51;SSC10:23;Meat_and_Carcass_Association;traitType=flavor;trait=Oiliness;30153624;0;0;1;0
+54;SSC10:62;Health_Association;traitType=bloodparameters;trait=Triglyceride level;25189197;0;0;1;0
+55;SSC10:62;Health_Association;traitType=Diseasesusceptibility;trait=Melanoma susceptibility;29963229;0;0;1;0
+60;SSC10:62;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Palmitoleic acid content;101;0;0;1;0
+63;SSC10:62;Production_Association;traitType=feedintake;trait=Residual feed intake;29076177;0;0;1;0
+67;SSC11:51;Exterior_Association;traitType=Eyecolor;trait=Iris pigmentation;32232994;0;0;1;0
+68;SSC11:51;Health_Association;traitType=bloodparameters;trait=Platelet distribution width;22548415;0;0;1;0
+73;SSC11:7;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+75;SSC11:7;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Linoleic acid content;22785162;0;0;1;0
+76;SSC11:7;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Monounsaturated fatty acid content;22785162;0;0;1;0
+77;SSC11:7;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Monounsaturated fatty acid to saturated fatty acid ratio;22785162;0;0;1;0
+78;SSC11:7;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Oleic acid content;22785162;0;0;1;0
+79;SSC11:7;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Palmitic acid content;23762394;0;0;1;0
+81;SSC11:7;Production_Association;traitType=feedintake;trait=Time in feeder per day;23977060;0;0;1;0
+89;SSC13:113;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Arachidonic acid to dihomo-gamma-linolenic acid ratio;27097669;0;0;1;0
+91;SSC13:191;Exterior_Association;traitType=conformation;trait=Rib shape;21383979;0;0;1;0
+92;SSC13:191;Meat_and_Carcass_Association;traitType=Chemistry;trait=androstenone, laboratory;24894739;0;0;1;0
+93;SSC13:191;Meat_and_Carcass_Association;traitType=ConductivityImpedance;trait=Conductivity 24 hours postmortem (loin);24643240;0;0;1;0
+99;SSC13:99;Health_Association;traitType=bloodparameters;trait=Mean corpuscular hemoglobin content;28046140;0;0;1;0
+103;SSC16:69;Exterior_Association;traitType=defects;trait=Spinal curvature;21176156;0;0;1;0
+104;SSC16:69;Health_Association;traitType=bloodparameters;trait=Mean corpuscular hemoglobin concentration;27434032;0;0;1;0
+105;SSC16:69;Health_Association;traitType=Diseasesusceptibility;trait=Actinobacillus pleuropneumoniae susceptibility;31960078;0;0;1;0
+108;SSC16:69;Meat_and_Carcass_Association;traitType=Chemistry;trait=Muscle moisture percentage;25962760;0;0;1;0
+109;SSC16:69;Meat_and_Carcass_Association;traitType=Chemistry;trait=skatole, laboratory;25879925;0;0;1;0
+111;SSC16:69;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Linoleic acid content;22785162;0;0;1;0
+120;SSC16:69;Reproduction_Association;traitType=Reproductiveorgans;trait=Seminiferous tubule diameter;26425933;0;0;1;0
+123;SSC17:1;Health_Association;traitType=bloodparameters;trait=Mean corpuscular hemoglobin content;22548415;0;0;1;0
+124;SSC17:1;Health_Association;traitType=Diseasesusceptibility;trait=PRRSV antibody titer;31150538;0;0;1;0
+125;SSC17:1;Health_Association;traitType=Immunecapacity;trait=Lymphocyte number;23691082;0;0;1;0
+131;SSC17:43;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+132;SSC17:43;Exterior_Association;traitType=Coatcharacteristics;trait=Hair amount;29672877;0;0;1;0
+135;SSC17:43;Health_Association;traitType=bloodparameters;trait=Calcium to phosphorus ratio;31316547;0;0;1;0
+136;SSC17:43;Health_Association;traitType=Immunecapacity;trait=Eosinophil percentage;28046140;0;0;1;0
+137;SSC17:43;Meat_and_Carcass_Association;traitType=ConductivityImpedance;trait=Conductivity 45 minutes post-mortem;29978910;0;0;1;0
+140;SSC17:43;Meat_and_Carcass_Association;traitType=fatness;trait=Obesity index;25071839;0;0;1;0
+142;SSC17:43;Production_Association;traitType=feedintake;trait=Time in feeder per visit;23977060;0;0;1;0
+147;SSC17:60;Health_Association;traitType=bloodparameters;trait=Alkaline phosphatase activity;31316547;0;0;1;0
+152;SSC17:60;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Lauric acid content;101;0;0;1;0
+159;SSC17:60;Production_Association;traitType=Growth;trait=body length;28111436;0;0;1;0
+161;SSC18:10;Health_Association;traitType=bloodparameters;trait=HDL cholesterol;25189197;0;0;1;0
+162;SSC18:10;Health_Association;traitType=bloodparameters;trait=Red cell distribution width;27434032;0;0;1;0
+163;SSC18:10;Health_Association;traitType=Diseasesusceptibility;trait=Actinobacillus pleuropneumoniae susceptibility;31960078;0;0;1;0
+164;SSC18:10;Health_Association;traitType=Immunecapacity;trait=Basophil percentage;28046140;0;0;1;0
+168;SSC18:10;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Dihomo-gamma-linolenic acid content;31708975;0;0;1;0
+169;SSC18:10;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Fatty acid atherogenic index;27097669;0;0;1;0
+172;SSC2:1;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+174;SSC2:1;Health_Association;traitType=bloodparameters;trait=Mean corpuscular volume;28046140;0;0;1;0
+175;SSC2:1;Health_Association;traitType=Immunecapacity;trait=Lymphocyte number;31065004;0;0;1;0
+187;SSC2:1;Meat_and_Carcass_Association;traitType=fatness;trait=Leaf fat weight;25885760;0;0;1;0
+193;SSC2:145;Health_Association;traitType=bloodparameters;trait=Cholesterol level;24299188;0;0;1;0
+194;SSC2:145;Health_Association;traitType=bloodparameters;trait=Cortisol level;23029068;0;0;1;0
+195;SSC2:145;Health_Association;traitType=bloodparameters;trait=HDL/LDL ratio;24299188;0;0;1;0
+196;SSC2:145;Health_Association;traitType=bloodparameters;trait=LDL cholesterol;24299188;0;0;1;0
+197;SSC2:145;Health_Association;traitType=Immunecapacity;trait=Immunoglobulin G level;24098351;0;0;1;0
+198;SSC2:145;Health_Association;traitType=Immunecapacity;trait=Interferon-gamma level;24098351;0;0;1;0
+199;SSC2:145;Meat_and_Carcass_Association;traitType=Anatomy;trait=Adrenal gland weight;23029068;0;0;1;0
+201;SSC2:145;Meat_and_Carcass_Association;traitType=ConductivityImpedance;trait=Conductivity 45 minutes post-mortem;29978910;0;0;1;0
+203;SSC2:145;Meat_and_Carcass_Association;traitType=fatness;trait=leaf fat percentage;23063408;0;0;1;0
+204;SSC2:145;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Docosatetraenoic acid content;24299188;0;0;1;0
+208;SSC2:145;Production_Association;traitType=Growth;trait=body length;28111436;0;0;1;0
+214;SSC2:145;Reproduction_Association;traitType=Reproductivetraits;trait=Gestation length;29411893;0;0;1;0
+215;SSC2:151;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+218;SSC2:151;Exterior_Association;traitType=defects;trait=Spinal curvature;21176156;0;0;1;0
+219;SSC2:151;Health_Association;traitType=bloodparameters;trait=Phosphate level;27296164;0;0;1;0
+222;SSC2:151;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Arachidonic acid to dihomo-gamma-linolenic acid ratio;27097669;0;0;1;0
+223;SSC2:151;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Dihomo-gamma-linolenic acid to linoleic acid ratio;27097669;0;0;1;0
+229;SSC2:45;Exterior_Association;traitType=conformation;trait=Hip structure;19284518;0;0;1;0
+230;SSC2:45;Health_Association;traitType=bloodparameters;trait=LDL cholesterol;26121138;0;0;1;0
+231;SSC2:45;Health_Association;traitType=bloodparameters;trait=Mean corpuscular hemoglobin content;24674592;0;0;1;0
+232;SSC2:45;Health_Association;traitType=bloodparameters;trait=Mean corpuscular volume;24674592;0;0;1;0
+233;SSC2:45;Health_Association;traitType=bloodparameters;trait=Plateletcrit;27434032;0;0;1;0
+234;SSC2:45;Health_Association;traitType=bloodparameters;trait=Red cell distribution width;24674592;0;0;1;0
+235;SSC2:45;Health_Association;traitType=Diseasesusceptibility;trait=Actinobacillus pleuropneumoniae susceptibility;31960078;0;0;1;0
+237;SSC2:45;Production_Association;traitType=Growth;trait=Body depth;19284518;0;0;1;0
+240;SSC3:124;Meat_and_Carcass_Association;traitType=Chemistry;trait=Residual glycogen;31443641;0;0;1;0
+242;SSC3:124;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Stearic acid content;23762394;0;0;1;0
+243;SSC3:124;Production_Association;traitType=feedintake;trait=Residual feed intake;26020169;0;0;1;0
+245;SSC3:3;Health_Association;traitType=bloodparameters;trait=Mean corpuscular hemoglobin content;27434032;0;0;1;0
+251;SSC4:18;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+254;SSC4:18;Exterior_Association;traitType=conformation;trait=Hind foot size;19284518;0;0;1;0
+256;SSC4:18;Exterior_Association;traitType=defects;trait=Spinal curvature;21176156;0;0;1;0
+257;SSC4:18;Health_Association;traitType=Diseasesusceptibility;trait=Enterotoxigenic E. coli susceptibility;26936422;0;0;1;0
+260;SSC4:18;Meat_and_Carcass_Association;traitType=Chemistry;trait=Muscle moisture percentage;25678226;0;0;1;0
+263;SSC4:18;Meat_and_Carcass_Association;traitType=fatness;trait=Marbling;21846497;0;0;1;0
+265;SSC4:18;Production_Association;traitType=Growth;trait=body length;19284518;0;0;1;0
+267;SSC4:54;Exterior_Association;traitType=conformation;trait=Cannon bone circumference;31475745;0;0;1;0
+268;SSC4:54;Meat_and_Carcass_Association;traitType=Anatomy;trait=Head weight;28727040;0;0;1;0
+269;SSC4:54;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Oleic acid to stearic acid ratio;32037995;0;0;1;0
+272;SSC5:94;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+273;SSC5:94;Exterior_Association;traitType=Eyecolor;trait=Iris pigmentation;32232994;0;0;1;0
+274;SSC5:94;Health_Association;traitType=bloodparameters;trait=Phosphate level;31316547;0;0;1;0
+275;SSC5:94;Health_Association;traitType=bloodparameters;trait=Platelet count;23691082;0;0;1;0
+281;SSC6:13;Exterior_Association;traitType=Eyecolor;trait=Iris pigmentation;32232994;0;0;1;0
+282;SSC6:13;Meat_and_Carcass_Association;traitType=ConductivityImpedance;trait=Conductivity 45 minutes post-mortem;29978910;0;0;1;0
+286;SSC6:13;Meat_and_Carcass_Association;traitType=fatness;trait=Obesity index;25071839;0;0;1;0
+290;SSC6:72;Exterior_Association;traitType=defects;trait=Spinal curvature;21176156;0;0;1;0
+291;SSC6:72;Health_Association;traitType=bloodparameters;trait=Mean platelet volume;22548415;0;0;1;0
+292;SSC6:72;Health_Association;traitType=bloodparameters;trait=Triglyceride level;25189197;0;0;1;0
+293;SSC6:72;Health_Association;traitType=Immunecapacity;trait=Neutrophil count;28046140;0;0;1;0
+294;SSC6:72;Health_Association;traitType=Immunecapacity;trait=Neutrophil percentage;28046140;0;0;1;0
+296;SSC6:72;Meat_and_Carcass_Association;traitType=Anatomy;trait=diaphragm weight;21107721;0;0;1;0
+297;SSC6:72;Meat_and_Carcass_Association;traitType=Anatomy;trait=Front leg weight;21107721;0;0;1;0
+300;SSC6:72;Meat_and_Carcass_Association;traitType=ConductivityImpedance;trait=Conductivity 45 minutes post-mortem;29978910;0;0;1;0
+301;SSC6:72;Meat_and_Carcass_Association;traitType=ConductivityImpedance;trait=Impedance 24 hours postmortem;24643240;0;0;1;0
+305;SSC6:72;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Dihomo-gamma-linolenic acid content;31708975;0;0;1;0
+310;SSC6:72;Production_Association;traitType=Growth;trait=body length;19284518;0;0;1;0
+315;SSC7:18;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+317;SSC7:18;Exterior_Association;traitType=defects;trait=Spinal curvature;21176156;0;0;1;0
+318;SSC7:18;Health_Association;traitType=bloodparameters;trait=Alkaline phosphatase activity;31316547;0;0;1;0
+319;SSC7:18;Health_Association;traitType=bloodparameters;trait=Cholesterol level;31065004;0;0;1;0
+320;SSC7:18;Health_Association;traitType=bloodparameters;trait=Hematocrit;24674592;0;0;1;0
+321;SSC7:18;Health_Association;traitType=bloodparameters;trait=Mean corpuscular hemoglobin concentration;28046140;0;0;1;0
+322;SSC7:18;Health_Association;traitType=bloodparameters;trait=Mean corpuscular volume;28046140;0;0;1;0
+323;SSC7:18;Health_Association;traitType=bloodparameters;trait=Red blood cell count;24674592;0;0;1;0
+324;SSC7:18;Health_Association;traitType=Immunecapacity;trait=Basophil percentage;28046140;0;0;1;0
+327;SSC7:18;Meat_and_Carcass_Association;traitType=Chemistry;trait=skatole, laboratory;25879925;0;0;1;0
+329;SSC7:18;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Dihomo-gamma-linolenic acid to gamma-linolenic acic ratio;27097669;0;0;1;0
+330;SSC7:18;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Gamma-linolenic acid to linoleic acid ratio;27097669;0;0;1;0
+332;SSC7:18;Production_Association;traitType=feedintake;trait=Residual feed intake;25250046;0;0;1;0
+335;SSC7:18;Production_Association;traitType=Growth;trait=Chest width;31909836;0;0;1;0
+337;SSC7:85;Health_Association;traitType=bloodparameters;trait=Mean platelet volume;27434032;0;0;1;0
+339;SSC7:85;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Capric acid content;32037995;0;0;1;0
+340;SSC7:85;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Myristic acid content;32037995;0;0;1;0
+341;SSC7:85;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Oleic acid content;32037995;0;0;1;0
+342;SSC7:85;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Omega-6 to omega-3 fatty acid ratio;32037995;0;0;1;0
+343;SSC7:85;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Palmitic acid content;32037995;0;0;1;0
+344;SSC7:85;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Total fatty acid content;32037995;0;0;1;0
+345;SSC7:85;Meat_and_Carcass_Association;traitType=flavor;trait=Umami flavor intensity;30153624;0;0;1;0
+347;SSC7:85;Production_Association;traitType=Growth;trait=Chest width;28111436;0;0;1;0
+353;SSC8:124;Health_Association;traitType=bloodparameters;trait=Cortisol level;23029068;0;0;1;0
+355;SSC8:124;Production_Association;traitType=Growth;trait=Ulna length;26219668;0;0;1;0
+357;SSC8:80;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+359;SSC8:80;Health_Association;traitType=bloodparameters;trait=Mean corpuscular hemoglobin content;24797309;0;0;1;0
+360;SSC8:80;Health_Association;traitType=bloodparameters;trait=Mean corpuscular volume;24797309;0;0;1;0
+361;SSC8:80;Health_Association;traitType=bloodparameters;trait=Red blood cell count;24797309;0;0;1;0
+362;SSC8:80;Health_Association;traitType=Immunecapacity;trait=Lymphocyte number;28046140;0;0;1;0
+363;SSC8:80;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Monounsaturated fatty acid content;27097669;0;0;1;0
+364;SSC8:80;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Monounsaturated fatty acid to saturated fatty acid ratio;27097669;0;0;1;0
+365;SSC8:80;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Oleic acid to stearic acid ratio;27097669;0;0;1;0
+366;SSC8:80;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Saturated fatty acid content;27097669;0;0;1;0
+367;SSC8:80;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Unsaturated to saturated fatty acid ratio;27097669;0;0;1;0
+370;SSC8:80;Production_Association;traitType=feedintake;trait=Residual feed intake;25250046;0;0;1;0
+372;SSC9:101;Exterior_Association;traitType=Behavioral;trait=Coping behavior;26537429;0;0;1;0
+374;SSC9:101;Meat_and_Carcass_Association;traitType=Chemistry;trait=androstenone, laboratory;25149343;0;0;1;0
+375;SSC9:101;Meat_and_Carcass_Association;traitType=ConductivityImpedance;trait=Conductivity 45 minutes post-mortem;29978910;0;0;1;0
+376;SSC9:101;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Arachidonic acid content;31708975;0;0;1;0
+377;SSC9:101;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Arachidonic acid to linoleic acid ratio;31708975;0;0;1;0
+382;SSC9:107;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Dihomo-gamma-linolenic acid content;31708975;0;0;1;0
+383;SSC9:107;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Dihomo-gamma-linolenic acid to linoleic acid ratio;27097669;0;0;1;0
+384;SSC9:107;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Palmitoleic acid content;101;0;0;1;0
+386;SSC9:107;Production_Association;traitType=feedintake;trait=Residual feed intake;24533460;0;0;1;0
+387;SSC9:19;Meat_and_Carcass_Association;traitType=Anatomy;trait=Adrenal gland weight;23029068;0;0;1;0
+390;SSC9:19;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Eicosenoic acid to eicosanoic acid ratio;22785162;0;0;1;0
+391;SSC9:19;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Lauric acid content;101;0;0;1;0
+392;SSC9:19;Meat_and_Carcass_Association;traitType=Fattyacidcontent;trait=Palmitoleic acid content;101;0;0;1;0
+182;SSC2:1;Meat_and_Carcass_Association;traitType=fatness;trait=Abdominal fat weight;25885760;0;0;1;0
+156;SSC17:60;Meat_and_Carcass_Association;traitType=pH;trait=pH 48 hr post-mortem (loin);18717966;0;0;1;0
+32;SSC1:253;Meat_and_Carcass_Association;traitType=pH;trait=pH 45 minutes post mortem;25678226;0;0;1;0
+112;SSC16:69;Meat_and_Carcass_Association;traitType=pH;trait=45 min-24 h pH decline;25962760;0;0;1;0
+307;SSC6:72;Meat_and_Carcass_Association;traitType=pH;trait=pH 45 minutes post mortem;24643240;0;0;1;0
+62;SSC10:62;Production_Association;traitType=feedintake;trait=feed intake per feeding;23977060;0;0;1;0
+127;SSC17:1;Production_Association;traitType=feedintake;trait=Number of visits to feeder per day;23977060;0;0;1;0
+7;SSC1:110;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;28728355;0;0;1;0
+16;SSC1:16;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;28728355;0;0;1;0
+70;SSC11:51;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;28728355;0;0;1;0
+95;SSC13:191;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;29522525;0;0;1;0
+100;SSC13:99;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;31316554;0;0;1;0
+126;SSC17:1;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;30381738;0;0;1;0
+139;SSC17:43;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;28728355;0;0;1;0
+167;SSC18:10;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;28728355;0;0;1;0
+241;SSC3:124;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;28728355;0;0;1;0
+246;SSC3:3;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;26578072;0;0;1;0
+262;SSC4:18;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;21846497;0;0;1;0
+285;SSC6:13;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;28728355;0;0;1;0
+304;SSC6:72;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;22688438;0;0;1;0
+328;SSC7:18;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;31316554;0;0;1;0
+338;SSC7:85;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;28728355;0;0;1;0
+354;SSC8:124;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;23724019;0;0;1;0
+389;SSC9:19;Meat_and_Carcass_Association;traitType=fatness;trait=Intramuscular fat content;30381738;0;0;1;0
+209;SSC2:145;Production_Association;traitType=Growth;trait=Body weight (46 days);25885760;0;0;1;0
+114;SSC16:69;Meat_and_Carcass_Association;traitType=texture;trait=Drip loss;26580276;0;0;1;0
+157;SSC17:60;Meat_and_Carcass_Association;traitType=texture;trait=Drip loss;18717966;0;0;1;0
+205;SSC2:145;Meat_and_Carcass_Association;traitType=texture;trait=Drip loss;23063408;0;0;1;0
+308;SSC6:72;Meat_and_Carcass_Association;traitType=texture;trait=Drip loss;24605821;0;0;1;0
+130;SSC17:1;Reproduction_Association;traitType=Littertraits;trait=Number of mummified pigs;31362194;5;0;0;0
+13;SSC1:110;Reproduction_Association;traitType=Reproductivetraits;trait=Sperm motility;25459079;0;0;1;0
+226;SSC2:151;Reproduction_Association;traitType=Reproductivetraits;trait=Sperm motility;26425933;0;0;1;0
+42;SSC1:95;Meat_and_Carcass_Association;traitType=Anatomy;trait=Carcass length;29672875;0;0;1;0
+69;SSC11:51;Meat_and_Carcass_Association;traitType=Anatomy;trait=Carcass length;27094516;0;0;1;0
+258;SSC4:18;Meat_and_Carcass_Association;traitType=Anatomy;trait=Carcass length;27473603;0;0;1;0
+181;SSC2:1;Meat_and_Carcass_Association;traitType=Anatomy;trait=Meat to fat ratio;30308042;0;0;1;0
+12;SSC1:110;Meat_and_Carcass_Association;traitType=pH;trait=pH 24 hr post-mortem (loin);22688438;0;0;1;0
+113;SSC16:69;Meat_and_Carcass_Association;traitType=pH;trait=pH 24 hr post-mortem (loin);26580276;0;0;1;0
+270;SSC4:54;Meat_and_Carcass_Association;traitType=pH;trait=pH 24 hr post-mortem (loin);24643240;0;0;1;0
+57;SSC10:62;Meat_and_Carcass_Association;traitType=Anatomy;trait=Loin muscle area;23840294;0;0;1;0
+150;SSC17:60;Meat_and_Carcass_Association;traitType=Anatomy;trait=Loin muscle area;23840294;0;0;1;0
+165;SSC18:10;Meat_and_Carcass_Association;traitType=Anatomy;trait=Loin muscle area;32344859;0;0;1;0
+179;SSC2:1;Meat_and_Carcass_Association;traitType=Anatomy;trait=Loin muscle area;21383979;0;0;1;0
+298;SSC6:72;Meat_and_Carcass_Association;traitType=Anatomy;trait=Loin muscle area;21383979;0;0;1;0
+326;SSC7:18;Meat_and_Carcass_Association;traitType=Anatomy;trait=Loin muscle depth;31188900;0;0;1;0
+106;SSC16:69;Meat_and_Carcass_Association;traitType=Anatomy;trait=Carcass weight (cold);26580276;0;0;1;0
+148;SSC17:60;Meat_and_Carcass_Association;traitType=Anatomy;trait=Carcass weight (cold);26580276;0;0;1;0
+65;SSC10:62;Reproduction_Association;traitType=Reproductivetraits;trait=Age at first farrowing;29411893;0;0;1;0
+19;SSC1:16;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23980905;0;0;1;0
+40;SSC1:253;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23980905;0;0;1;0
+66;SSC10:62;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;29411893;0;0;1;0
+72;SSC11:51;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23980905;0;0;1;0
+86;SSC13:109;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23437861;0;0;1;0
+90;SSC13:113;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23980905;0;0;1;0
+213;SSC2:145;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23980905;0;0;1;0
+271;SSC4:54;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23980905;0;0;1;0
+279;SSC5:94;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23980905;0;0;1;0
+349;SSC7:85;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23980905;0;0;1;0
+396;SSC9:19;Reproduction_Association;traitType=Reproductivetraits;trait=Age at puberty;23437861;0;0;1;0
+314;SSC6:72;Reproduction_Association;traitType=Reproductivetraits;trait=Weaning to conception interval;29879826;0;0;1;0
+217;SSC2:151;Exterior_Association;traitType=defects;trait=Scrotal/inguinal hernia;25886970;0;1;0;0
+352;SSC8:124;Exterior_Association;traitType=defects;trait=Scrotal/inguinal hernia;31608119;0;1;0;0
