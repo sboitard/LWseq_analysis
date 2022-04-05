@@ -8,9 +8,9 @@ Directory 'compareHMM' should contain the code allowing to detect selection from
 
 Other public software (plink1.9,hapfLK) are needed for some commands and should be installed before running main.sh.
 
-The raw NGS data (fastq files) used in these analyzes are public but not provided here (url is provided in the manuscript). Genotype files at plink format, which result from the pre-processing of NGS data, are also public but not provided here (url is provided in the manuscript)
+The raw NGS data (fastq files) used in these analyzes can be found at \url{https://www.ebi.ac.uk/ena} under the accession number PRJEB51909. Genotype files at plink format, which result from the pre-processing of NGS data, can be found at https://doi.org/10.5281/zenodo.6415023. The analyzes described in main.sh from step 0b can start from these files (step 0a describes how the genotype files were obtained from vcf files). 
 
-The following input or intermediate result files can be found in the directory 'input_files':
+The following input or intermediate result files can also be found in the directory 'input_files':
 - a list of the genes included in selection signatures (gene_names.txt, sel_genes.csv)
 - a list of QTLs overlapping selection signatures (QTL_list.csv)
 - lists of functions found significantly enriched within selection signatures (MGI.csv, GOBP.csv, KEGG.csv). 
