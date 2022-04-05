@@ -6,7 +6,8 @@ mkdir results
 ## 0: Data preparation
 
 # 0a: creates plink files for variant sets HQSNP and AV
-# this step should be run from vcf files, not provided here
+# this step should be run from vcf files, not provided here.
+# However, the datasets resulting from these commands (snp20_auto_cr.bim/bed/fam and all10_auto.bim/bed/fam) can be dowloaded at https://doi.org/10.5281/zenodo.6415023
 sh scripts/create_HQSNP.sh $myfolder
 sh scripts/create_AV.sh $myfolder
 # 0b: filters on MAF in the 1977 population (used in several analyzes below)
