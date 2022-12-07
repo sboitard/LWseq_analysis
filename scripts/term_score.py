@@ -5,7 +5,7 @@ mydir=sys.argv[1]
 dbname=sys.argv[2]
 
 generef={}
-for line in open(mydir+'/input_files/sel_genes.csv'): # this file is a csv extraction of Additional file 7, sheet 1
+for line in open(mydir+'/input_files/sel_genes.csv'): # this file is a csv extraction of Additional file 6, sheet 1
     buf=line[:-1].split(';')
     generef[buf[1]]=[buf[0],buf[2]]
 
@@ -18,7 +18,7 @@ for i in range(6):
     outfile.write(';'+cat[i])
 outfile.write('\n')
 # other lines
-for line in open(mydir+'/input_files/'+dbname+'.csv'): # this file is a csv extraction of Additional file 7, sheet 2-4 (depending on dbname)
+for line in open(mydir+'/input_files/'+dbname+'.csv'): # this file is a csv extraction of Additional file 6, sheet 2-4 (depending on dbname)
     buf=line[:-1].split(';')
     annot=buf[0]
     annot_id=buf[1]
